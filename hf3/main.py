@@ -11,5 +11,5 @@ if __name__ == "__main__":
     a = int(input("a oldal (cm): "))
     b = int(input("b oldal (cm): "))
     c = int(input("c oldal (cm): "))
-    kiszamitas()
+    kiszamitas() 
 
