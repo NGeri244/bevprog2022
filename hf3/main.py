@@ -8,8 +8,8 @@ def kiszamitas():
 
 if __name__ == "__main__":
     print("Adja meg a háromszög három oldalát cm-ben: ")
-    a = int(input())
-    b = int(input())
-    c = int(input())
+    a = int(input("a oldal (cm): "))
+    b = int(input("b oldal (cm): "))
+    c = int(input("c oldal (cm): "))
     kiszamitas()
 
